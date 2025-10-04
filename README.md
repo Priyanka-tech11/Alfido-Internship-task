@@ -1,7 +1,6 @@
 # Alfido-Internship-task
 All my tasks from Alfido Internship
 Description
-
 This repository contains all the Java tasks I completed during my Alfido Internship. These projects helped me strengthen my Java fundamentals, OOP concepts, and file handling skills through hands-on practice.
 
 Tasks Completed
@@ -27,7 +26,7 @@ Inheritance
 
 Method Overriding
 
-Practical examples of creating reusable and extendable code.
+Created practical examples of reusable and extendable code.
 
 Task 4: File Reader Program
 
@@ -44,3 +43,5 @@ OOP Concepts (Classes, Inheritance, Method Overriding)
 File Handling
 
 Exception Handling
+
+✅ These tasks gave me hands-on experience in Java and mark the successful completion of my Alfido Internship.
